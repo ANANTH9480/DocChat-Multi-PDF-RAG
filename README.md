@@ -53,3 +53,14 @@ streamlit run app.py
 
 ## Author
 Ananth
+
+## Application Screenshots
+
+### 1. Main Application
+![DocChat Home](screenshots/01_home.png)
+
+### 2. Resume Comparison using RAG
+![Resume Comparison](screenshots/02_comparison.png)
+
+### 3. Retrieved Source References
+![Source References](screenshots/03_sources.png)
